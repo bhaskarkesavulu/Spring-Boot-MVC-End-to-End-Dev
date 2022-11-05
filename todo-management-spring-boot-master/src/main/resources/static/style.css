@@ -1,0 +1,117 @@
+ #tabledata {
+	color: white;
+	font-size: 12px;
+	font-family: arial;
+	background: -webkit-linear-gradient(top, #3c3c3c 0%, #222222 100%);
+	text-align: center;
+}
+
+.img{
+	position: fixed;
+	height: 59px;
+	width: 50px;
+	left: 1230px;
+}
+
+p{
+	text-align: left;
+	text-decoration: none;
+	font-family: serif;
+	font-size: 16px;
+	color: aqua;
+	text-align: center;
+}
+
+#addTodo{
+  color: #efefef;
+  text-align: center;
+  align-self: center;
+  border-radius: 25px;
+  border: 1px;
+  margin-left: 530px;
+}
+
+#tabledataa:hover, #hove:hover {
+	background: orange;
+}
+
+
+#tabledata:hover {
+	background: orange;
+}
+
+body {
+	height: 125vh;
+	background-image:
+		url('https://img.freepik.com/free-photo/flat-lay-travel-composition-with-world-map-wooden-background_169016-16173.jpg?w=2000');
+	background-size: cover;
+	font-family: sans-serif;
+	margin-top: 50px;
+	padding: 30px;
+	background-attachment: fixed;
+	height: 100%;
+	overflow: hidden;
+}
+
+.container{
+	overflow-x: scroll;
+	position: inherit;
+	height: 400px;
+	width: 1100px;
+	overflow-y: auto;
+	margin: auto;
+}
+
+.tableData {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  color: aqua;
+  padding: 30px;
+  background-color: purple;
+}
+
+
+main {
+	color: white;
+}
+
+header {
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 80px;
+	display: flex;
+	align-items: center;
+	box-shadow: 0 0 25px 0 black;
+}
+
+header * {
+	display: inline;
+}
+
+header li {
+	margin: 20px;
+}
+
+header li a {
+	color: black;
+	text-decoration: none;
+}
+
+
+.myListNavOptions {
+	background-color: lime;
+	height: 60px;
+}
+
+.logout {
+	position: fixed;
+	right: 10px;
+	top: -20px;
+	margin-right: 10px;
+	left: 1140px;
+}
+

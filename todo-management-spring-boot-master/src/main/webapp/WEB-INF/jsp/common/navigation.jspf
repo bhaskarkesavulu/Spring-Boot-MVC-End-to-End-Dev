@@ -1,0 +1,14 @@
+
+<header class="myListNavOptions">
+	<img src="">
+	<nav>
+		<ul>
+			<li id="tabledataa"><a href="/">Home</a></li>
+			<li id="tabledataa"><a href="/about">About</a></li>
+			<li class="nav-item" id="tabledataa"><a href="/list-todos">Products</a></li>
+			<li id="tabledataa"><a href="/termsofuse">Terms of use</a></li>
+			<li id="tabledataa"><a href="/contact">Contact</a></li>
+			<li class="logout" id="tabledataa"><a href="/logout"><img src="images/log.jpg" class="img"></a></li>
+		</ul>
+	</nav>
+</header>
